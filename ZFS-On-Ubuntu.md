@@ -1,5 +1,5 @@
 # 💻 Things I Learned about ZFS on Ubuntu
-The theoretical upper limit of files in any one directory is $2^{48}$ (from Wikipedia).
+The theoretical upper limit of files in any one directory is 2^48 (from Wikipedia).
 
 Maximum 256 Quadrillion Zettabytes storage (itsfoss.com).
 
