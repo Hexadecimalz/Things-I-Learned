@@ -5,7 +5,7 @@ Maximum 256 Quadrillion Zettabytes storage (itsfoss.com).
 
 ZFS feels like an alien storage system, because it combines the file-system and volume manager into pools (itsfoss.com). 
 
-The ZFS filesystem incorporates checking of the filesystem to verify its integrity, and can easily create parity compared to others tools in Linuz such as MDADM. I created my first RAID in MDADM and it was simple, but time consuming to format the disk for RAID and get everything online. Whereas ZFS pools can be created and destroyed with ease. 
+The ZFS filesystem incorporates checking of the filesystem to verify its integrity, and can easily create parity compared to others tools in Linux such as MDADM. I created my first RAID in MDADM and it was simple, but time-consuming to format the disk for RAID and get everything online. Whereas ZFS pools can be created and destroyed with ease. 
 
 Snapshots allow for a full or incremental backup. There are many utilities in Linux to manage snapshots. I found one that the documentation was fairly good for, but this was for a localhost backup, and not being backed up to an external server due to the quantity of data being very high. 
 
