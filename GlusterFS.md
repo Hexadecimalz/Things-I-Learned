@@ -82,7 +82,7 @@ df -h
 ```
 
 ## 🚀 References
-- https://access.redhat.com/documentation/enus/red_hat_gluster_storage/3.1/html/administration_guide/sect-managing_split-brain
+- https://access.redhat.com/documentation/en-us/red_hat_gluster_storage/3.2/html/administration_guide/sect-managing_split-brain
 - https://www.scaleway.com/en/docs/how-to-configure-storage-with-glusterfs-on-ubuntu/
 - https://gist.github.com/githubfoam/edc4765a2bacbc2e44398e28bfce708b
 - https://github.com/geerlingguy/ansible-role-glusterfs
