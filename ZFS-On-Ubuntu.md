@@ -9,6 +9,8 @@ The ZFS filesystem incorporates checking of the filesystem to verify its integri
 
 Snapshots allow for a full or incremental backup. There are many utilities in Linux to manage snapshots. I found one that the documentation was fairly good for, but this was for a localhost backup, and not being backed up to an external server due to the quantity of data being very high. 
 
+ZFS will also take up about 50% of the available system memory when in use, and will adjust downward when more RAM is needed on the system. 
+
 ## What I Installed 
 ```
 sudo apt install zfsutils-linux -y
@@ -78,6 +80,7 @@ Run a job at midnight to backup `data` pool, keep only the latest backup on the 
 ```
 sudo zfs send backup/data@[snap] | sudo zfs recv -F [pool]/restore
 ```
+## 🌊 Working With Pools 
 
 ### Destroy a Pool
 `sudo zpool destroy [pool]`
@@ -86,7 +89,7 @@ sudo zfs send backup/data@[snap] | sudo zfs recv -F [pool]/restore
 If the ZFS pool does not automount 
 `sudo zpool import [pool]` 
 
-### Import disks on a new system/reinstall
+### Import pools on a new system/reinstall
 
 `zpool import -f [pool]`
 
