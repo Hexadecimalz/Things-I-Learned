@@ -10,7 +10,7 @@ float_list = []
 for i in range(100):
   float_list.append(i*100.0)
 
-#Comprehesion
+#Comprehension
 float_list = [i*100.0 for i in range(100)]
 
 ## Example 2 ##
