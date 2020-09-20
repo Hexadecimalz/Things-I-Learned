@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/env python3
 
 # Just some examples from a course about Comprehensions
 # Run each example as a separate file
