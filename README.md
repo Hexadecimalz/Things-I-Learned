@@ -7,3 +7,11 @@ One of the reasons why wikis are so boring, and people don't want to document pr
 The idea behind this repo is to document some of the interesting bits (or at least to me), maybe it won't be the most entertaining work of non-fiction, but hopefully it would be more meaningful as it's personally valuable to me. 
 
 Should you find something here that is useful to you, please let me know. Share what you know! 
+
+## ⛓ Useful Links 
+- [Net Use Command](http://maxi-pedia.com/net+use+command)  
+- [Git Config](https://linuxize.com/post/how-to-configure-git-username-and-email/) Don't set e-mail if e-mail is set to private on GitHub. Likewise if any commits are made with an e-mail it needs to be undone to allow a successful e-mail free commit. 
+
+## 🖥 Application Links 
+- [SharpApp](https://www.builtbybel.com/ms-apps/sharpapp) Useful for removing Win10 annoyances and telemetry. 
+
