@@ -2,6 +2,8 @@
 
 Some notes about copying an NVMe from a 512gb drive to a 4tb drive using Ubuntu, as well as the other most common use I've had for `dd`. Byte Size can make a difference in transfer rates, see the resources for more details. 
 
+The `bs` indicator is very important in terms of speed. In cloisng 512gb on two separate occassions without `bs` indicator it took 3 hours to copy 512GB where as it too a little short of an hour to copy the same amount of data specifying `bs=1M`.
+
 ## ⚠ Disclaimer 
 
 Don't try this without a backup. If you select the wrong disks you'll overwrite your data... 
@@ -14,7 +16,7 @@ which was worth noting. An easy way to remember this command is to remember that
 **How to get this done:**
 1. 🛠 **Tools:** Keep the host OS drive mounted in place, and connect the second NVMe drive through a USB interface. We need to boot into an external Ubuntu live USB. 
 2. In the BIOS, if Intel Rapid Store Technology (RST) is on, you will need to disable it and change over to AHCI. 
-3. When booting back into the drive choose `AHCI` in the BIOS, then run a disk repair as needed.    
+3. When booting back into the drive choose `AHCI` in the BIOS. The drive will fail to boot and eventually get to the 'Advanced Options' menu choose to boot into safe mode with networking. Login and give it a bit of time, but then perform a reboot and things should work on the next reboot without problem.  
 4. Identify your disks `lsblk -t` or `fdisk -l`. Nvme drive will show up in a very particular way, which makes the following commands easier. 
 NVMe will only identify drives mounted through the motherboard or a PCI card.  
 4. NVMe partitions are named `nvme0n1p1, nvme0n1p2` so we see a few partitions coming from our origin drive, and can identify it as the OS drive, since we know it has a few parititions. 
