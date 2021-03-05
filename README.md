@@ -11,8 +11,10 @@ Should you find something here that is useful to you, please let me know. Share 
 ## ⛓ Useful Links 
 - [Net Use Command](http://maxi-pedia.com/net+use+command)  
 - [Git Config](https://linuxize.com/post/how-to-configure-git-username-and-email/) Don't set e-mail if e-mail is set to private on GitHub. Likewise if any commits are made with an e-mail it needs to be undone to allow a successful e-mail free commit. 
+- [Generate SPSS MSI](https://www.ibm.com/support/pages/creating-microsoft-installer-msi-file-ibm-spss-statistics) Should be part of IBM's official documentation about silent install, but doesn't seem to be there. `C:\>SPSS_Statistics_2x_win64.exe /b"C:\MSI"`
 - [Zero Touch Bitlocker](https://adameyob.com/2016/12/08/zero-touch-bitlocker-deployments/) Saved a lot of time, brilliant set of notes. 
 
 ## 🖥 Application Links 
-- [SharpApp](https://www.builtbybel.com/ms-apps/sharpapp) Useful for removing Win10 annoyances and telemetry. 
+- [SharpApp](https://www.builtbybel.com/ms-apps/sharpapp) Useful for removing Win10 annoyances and telemetry.
+ 
 
