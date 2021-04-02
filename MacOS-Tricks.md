@@ -16,7 +16,7 @@ sudo su
 fdesetup enable 
 # Type username / password 
 # Outputs 
-# Reocvery key = 'xxxx-xxxx-xxxx-xxxx-xxxx-xxxx'
+# Recovery key = 'xxxx-xxxx-xxxx-xxxx-xxxx-xxxx'
 
 # Test status 
 fdesetup status 
