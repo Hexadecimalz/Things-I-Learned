@@ -2,7 +2,7 @@
 
 Some notes about copying an NVMe from a 512gb drive to a 4tb drive using Ubuntu, as well as the other most common use I've had for `dd`. Byte Size can make a difference in transfer rates, see the resources for more details. 
 
-The `bs` indicator is very important in terms of speed. In cloisng 512gb on two separate occassions without `bs` indicator it took 3 hours to copy 512GB where as it too a little short of an hour to copy the same amount of data specifying `bs=1M`.
+The `bs` indicator is very important in terms of speed. In cloisng 512gb on two separate occassions without `bs` indicator it took 3 hours to copy 512GB where as it took a little short of an hour to copy the same amount of data specifying `bs=1M`.
 
 ## ⚠ Disclaimer 
 
