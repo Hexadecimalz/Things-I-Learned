@@ -16,6 +16,7 @@ Should you find something here that is useful to you, please let me know. Share 
 - [tim.py Sys Admin Scripts](http://timgolden.me.uk/python/index.html)
 - [Raspberry Pi 4 Boot from SSD](https://www.tomshardware.com/how-to/boot-raspberry-pi-4-usb)
 - [Navigate Faster in Bash](https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html)
+- [SSD Health Check in Linux](https://www.techrepublic.com/article/how-to-check-ssd-health-in-linux/)
 
 ## 🖥 Application Links 
 - [SharpApp](https://www.builtbybel.com/ms-apps/sharpapp) Useful for removing Win10 annoyances and telemetry.
