@@ -15,6 +15,7 @@ Should you find something here that is useful to you, please let me know. Share 
 - [Zero Touch Bitlocker](https://adameyob.com/2016/12/08/zero-touch-bitlocker-deployments/) Saved a lot of time, brilliant set of notes. 
 - [tim.py Sys Admin Scripts](http://timgolden.me.uk/python/index.html)
 - [Raspberry Pi 4 Boot from SSD](https://www.tomshardware.com/how-to/boot-raspberry-pi-4-usb)
+- [Setup XRDP on Raspberry Pi](https://linuxize.com/post/how-to-install-xrdp-on-raspberry-pi/)
 - [Navigate Faster in Bash](https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html)
 - [SSD Health Check in Linux](https://www.techrepublic.com/article/how-to-check-ssd-health-in-linux/)
 
