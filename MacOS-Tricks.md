@@ -24,6 +24,7 @@ fdesetup status
 Sometimes a reboot is necessary, but usually status will update to remote monitor right away. 
 
 ## macOS Shows Managed by Organization Erroneously
+If System Preference shows a device is managed by an organization where it should not be, then try the below commands in terminal. 
 ```
 sudo fdesetup removerecovery -institutional
 sudo fdesetup changerecovery -personal
