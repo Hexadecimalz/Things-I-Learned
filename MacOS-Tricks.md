@@ -22,3 +22,13 @@ fdesetup enable
 fdesetup status 
 ```
 Sometimes a reboot is necessary, but usually status will update to remote monitor right away. 
+
+## macOS Shows Managed by Organization Erroneously
+```
+sudo fdesetup removerecovery -institutional
+sudo fdesetup changerecovery -personal
+```
+The second command should show the new backup key. 
+
+
+- Source : [mac World](https://www.macworld.com/article/233872/can-t-enable-filevault-an-errant-set-of-files-may-be-blocking-you.html)
