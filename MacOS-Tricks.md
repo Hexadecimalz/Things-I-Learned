@@ -2,10 +2,10 @@
 
 ## 🖥 Verify SSH  On/Off status remotely and set it 
 ```
-ssh systemsetup -getremotelogin 
-ssh systemsetup -setremotelogin on 
+sudo systemsetup -getremotelogin 
+sudo systemsetup -setremotelogin on
 # OR 
-ssh systemsetup -setremotelogin off 
+sudo systemsetup -setremotelogin off 
 ```
 
 ## 🔐Remotely Encrypt through SSH 
