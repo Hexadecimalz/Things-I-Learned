@@ -27,7 +27,7 @@ The better option was 430.30 that worked for the VGPU
 
 Make sure to install DKMS, which will keep the driver loaded after Kernel updates. 
 
-## Improve Driver Stability through DKMS 
+## Improve NVIDIA Driver Stability through DKMS 
 
 ### Increase Kernel Stability 
 After kernel updates the NVIDIA driver would need to be reinstalled after each update. DKMS will side-load the driver back in when a kernel update needs to be made to the system, which avoids the mess of reinstalling all the time. 
@@ -46,7 +46,7 @@ Reinstall the driver with DKMS support `sudo ./NVIDIA.run --dkms`
 sudo dkms status
 nvidia, 460.32.03, 5.4.0-73-generic, x86_64: installed
 ```
-Reference: https://askubuntu.com/questions/492217/nvidia-driver-reset-after-each-kernel-update 
+🚀 Reference: https://askubuntu.com/questions/492217/nvidia-driver-reset-after-each-kernel-update 
 
 
 
