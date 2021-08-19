@@ -17,11 +17,11 @@
 - [Repl.it](https://repl.it/teams-for-education)
 - [11ty](https://www.11ty.dev) 
 
-## Fun 
+## 🎈Fun 
 - [Oh My git!](https://ohmygit.org)
 - [Learn Vim](https://github.com/iggredible/Learn-Vim) 
 - [Learn Awesome](https://learnawesome.org) 
 
-## Colors 
+## 🎨 Colors 
 
 - #FF0057
