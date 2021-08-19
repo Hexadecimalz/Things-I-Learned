@@ -1,6 +1,6 @@
 #  📃 List Of Links 
 
-## Technical Interest Articles
+## 💾 Technical Interest Articles
 - [Silent Install HQ](https://silentinstallhq.com/)
 - [Monitoring Infrastructure w/ Grafana Influxdb and Connectd](https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/)
 - [Fully Automate Software Update Maintenance in Configuration Manager](https://damgoodadmin.com/2017/11/05/fully-automate-software-update-maintenance-in-cm/)
@@ -13,11 +13,11 @@
 - [tim.py](http://timgolden.me.uk/python/index.html)
 - [German Adventure](https://www.thegermanadventure.com/resources/)
 
-## 🔨Tools 
+## 🔨 Tools 
 - [Repl.it](https://repl.it/teams-for-education)
 - [11ty](https://www.11ty.dev) 
 
-## 🎈Fun 
+## 🎈 Fun 
 - [Oh My git!](https://ohmygit.org)
 - [Learn Vim](https://github.com/iggredible/Learn-Vim) 
 - [Learn Awesome](https://learnawesome.org) 
