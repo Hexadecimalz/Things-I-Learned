@@ -11,10 +11,12 @@
 ## 👨‍🚀 Blogs 
 - [Unix Sheikh Blog](https://www.unixsheikh.com/index.html)
 
-
 ## 🔨Tools 
-
 - [Repl.it](https://repl.it/teams-for-education)
+
+## Fun 
+- [Oh My git!](https://ohmygit.org)
+- [Learn Vim](https://github.com/iggredible/Learn-Vim) 
 
 ## Colors 
 
