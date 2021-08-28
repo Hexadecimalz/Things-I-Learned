@@ -8,7 +8,7 @@
 - [VPN Over SSH The Socks Proxy](https://blog.gwlab.page/vpn-over-ssh-the-socks-proxy-8a8d7bdc7028)
 - [Ubuntu Linux Install Nvidia Driver](https://www.cyberciti.biz/faq/ubuntu-linux-install-nvidia-driver-latest-proprietary-driver/)
   - Black list Noveau driver and run the command `sudo ubuntu-drivers install` then try `nvidia-smi` 🧙‍♂️
-
+- [Conditional gitconfig](https://utf9k.net/blog/conditional-gitconfig/)
 
 ## 👨‍🚀 Blogs 
 - [Unix Sheikh Blog](https://www.unixsheikh.com/index.html)
