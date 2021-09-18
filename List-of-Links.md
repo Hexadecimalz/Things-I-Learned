@@ -28,6 +28,7 @@
 - [Oh My git!](https://ohmygit.org)
 - [Learn Vim](https://github.com/iggredible/Learn-Vim) 
 - [Learn Awesome](https://learnawesome.org) 
+- [Marginalia - Text Favoring Search Engine](https://search.marginalia.nu)
 
 ## 🎨 Colors 
 
