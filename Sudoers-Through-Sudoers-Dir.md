@@ -18,3 +18,21 @@ user ALL=(ALL) NOPASSWD: ALL
 ```
 3. Save and exit the changes are now posted to sudoers. 
 
+## Command only permissions 
+
+You can set command only permissions in sudoers or is sudoers.d 
+
+```
+# Allow icebear to edit passwords for all users, except for  root
+icebear ALL=/usr/bin/passwd, !/usr/bin/passwd *root*
+# Allow icebear to shutdown localhost
+icebear localhost=/sbin/shutdown -h now 
+# Allow icebear to shutdown all machines 
+icebear ALL=/usr/sbin/shutdown
+# Allow icebear to poweroff all machines
+icebear ALL=/usr/sbin/poweroff 
+```
+
+## Resources
+
+[man sudoers](https://linux.die.net/man/5/sudoers)
