@@ -22,4 +22,4 @@ Should you find something here that is useful to you, please let me know. Share 
 ## 🖥 Application Links 
 - [SharpApp](https://www.builtbybel.com/ms-apps/sharpapp) Useful for removing Win10 annoyances and telemetry.
  
-
+Check out the list of links for more links.
