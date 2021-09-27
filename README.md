@@ -8,18 +8,5 @@ The idea behind this repo is to document some of the interesting bits (or at lea
 
 Should you find something here that is useful to you, please let me know. Share what you know! 
 
-## ⛓ Useful Links 
-- [Net Use Command](http://maxi-pedia.com/net+use+command)  
-- [Git Config](https://linuxize.com/post/how-to-configure-git-username-and-email/) Don't set e-mail if e-mail is set to private on GitHub. Likewise if any commits are made with an e-mail it needs to be undone to allow a successful e-mail free commit. 
-- [Generate SPSS MSI](https://www.ibm.com/support/pages/creating-microsoft-installer-msi-file-ibm-spss-statistics) Should be part of IBM's official documentation about silent install, but doesn't seem to be there. `C:\>SPSS_Statistics_2x_win64.exe /b"C:\MSI"`
-- [Zero Touch Bitlocker](https://adameyob.com/2016/12/08/zero-touch-bitlocker-deployments/) Saved a lot of time, brilliant set of notes. 
-- [tim.py Sys Admin Scripts](http://timgolden.me.uk/python/index.html)
-- [Raspberry Pi 4 Boot from SSD](https://www.tomshardware.com/how-to/boot-raspberry-pi-4-usb)
-- [Setup XRDP on Raspberry Pi](https://linuxize.com/post/how-to-install-xrdp-on-raspberry-pi/)
-- [Navigate Faster in Bash](https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html)
-- [SSD Health Check in Linux](https://www.techrepublic.com/article/how-to-check-ssd-health-in-linux/)
 
-## 🖥 Application Links 
-- [SharpApp](https://www.builtbybel.com/ms-apps/sharpapp) Useful for removing Win10 annoyances and telemetry.
- 
 Check out the list of links for more links.
