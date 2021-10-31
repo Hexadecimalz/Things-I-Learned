@@ -65,6 +65,7 @@ data/glusterfs/gvolume/brick7/brick force
 ## 🎢 AutoMount 
 On ALL GLUSTER SERVERS setup `/etc/fstab` as follows: 
 ```
+# it would be better to use UUID instead of device lettering /dev/sdb = should be UUID 
 /dev/sdb /data/glusterfs/gvolume/brick1 xfs _netdev 0 0
 /dev/sdc /data/glusterfs/gvolume/brick2 xfs _netdev 0 0
 /dev/sdd /data/glusterfs/gvolume/brick3 xfs _netdev 0 0
