@@ -34,6 +34,7 @@
 - [Add Users to Groups GUI / AD](https://powershelladministrator.com/2020/10/28/add-users-to-groups-gui/)
 - [Mini Tool Data Recovery](https://www.minitool.com/data-recovery-software/)
 - [SharpApp](https://www.builtbybel.com/ms-apps/sharpapp) Useful for removing Win10 annoyances and telemetry.
+- [Notify.run](https://notify.run) Send notifications to yourself easily. 
 
 ## 🎈 Fun 
 - [Oh My git!](https://ohmygit.org)
